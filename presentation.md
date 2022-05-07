@@ -74,12 +74,6 @@ def proof_of_work(block, difficulty) {
 
 ---
 
-# Demo
-
-#### *[http://github.com/izqui/blockchain](http://github.com/izqui/blockchain)*
-
----
-
 # **Properties** Decentralized
 
 * Every peer has to download **all** the data.
@@ -147,13 +141,7 @@ def proof_of_work(block, difficulty) {
 **timestamp services** btproof.com proofofexistence.com
 **git hosting** gitchain.org
 **compute power** https://www.ethereum.org
----
 
-## Join us developing a basic blockchain in which you can **build stuff** and **experiment** on top.
-
-#### *[http://github.com/izqui/blockchain](http://github.com/izqui/blockchain)*
-
----
 
 # Thanks!
 
